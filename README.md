@@ -6,7 +6,7 @@ _Just-add-water CSS animation_
 
 
 ## Installation
-
+jaya
 Install via npm:
 
 ```bash
